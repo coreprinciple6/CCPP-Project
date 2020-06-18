@@ -1,5 +1,5 @@
 # CCPP-Project
-A machine learning project that works with 'Combined Cycle Power Plant' data set.
+A machine learning project that works with **'Combined Cycle Power Plant'** data set to predict power output with **99%** accuracy. Refer to 'Final Report phase3.doc' file for details.
 Dataset source :https://github.com/makinarocks/awesome-industrial-machine-datasets/tree/master/data-explanation/Combined%20Cycle%20Power%20Plant?fbclid=IwAR0nFtj_ZZOK5d4D5TYPzM3J7DGU6c8CzSCQ-iFue46LvHIYCiUbo7639xg
 
 #### Data Set Information:
